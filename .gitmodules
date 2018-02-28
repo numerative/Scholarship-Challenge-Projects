@@ -1,3 +1,6 @@
 [submodule "HelloAndroid"]
 	path = HelloAndroid
 	url = https://github.com/numerative/HelloAndroid
+[submodule "Just-Java"]
+	path = Just-Java
+	url = https://github.com/numerative/Just-Java/
