@@ -7,3 +7,6 @@
 [submodule "Court-Counter"]
 	path = Court-Counter
 	url = https://github.com/numerative/Court-Counter
+[submodule "Gmail-Clone"]
+	path = Gmail-Clone
+	url = https://github.com/numerative/Gmail-Clone
