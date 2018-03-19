@@ -4,3 +4,6 @@
 [submodule "Just-Java"]
 	path = Just-Java
 	url = https://github.com/numerative/Just-Java/
+[submodule "Court-Counter"]
+	path = Court-Counter
+	url = https://github.com/numerative/Court-Counter
