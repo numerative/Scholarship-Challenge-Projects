@@ -10,3 +10,6 @@
 [submodule "Gmail-Clone"]
 	path = Gmail-Clone
 	url = https://github.com/numerative/Gmail-Clone
+[submodule "Quiz-App"]
+	path = Quiz-App
+	url = https://github.com/numerative/Quiz-App.git
